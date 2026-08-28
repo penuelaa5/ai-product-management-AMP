@@ -1,33 +1,15 @@
-# System Prompt · Juno
+# Prototype · Juno
 
-> Module 1 · Prompting. Juno's production system prompt, authored with the **M1 · System Prompt Configurator**. Fill the tool, then paste its markdown over this file.
+## Prototype link
 
-## Role & objective
+rocketship-pm-hub
 
-_Who Juno is and the single job it optimises for._
+## What it demonstrates
 
-_____
+A single, well-structured prompt generated a complete working flow that matched the intended output, no back-and-forth iteration needed to get there.
 
-## Context & knowledge
+## Debrief
 
-_What Juno knows, the sources it can draw on, and its boundaries._
-
-_____
-
-## Rules & guardrails
-
-_Musts, must-nots, refusal conditions, and tone._
-
-_____
-
-## Output format
-
-_The exact shape of a good response._
-
-_____
-
-## Few-shot examples
-
-_One or two worked input → output pairs._
-
-_____
+- **What worked:** The structure held up. Setting the role, constraints, and examples clearly upfront gave the output the feel I was going for on the first pass.
+- **What broke / felt like a toy:** Having to reprocess the transcript every time to see a new answer felt clunky. The transcript also only tested one failure mode, I'd want a positive-outcome case too, so I can see how the design responds to good signal, not just bad.
+- **What I'd change next pass:** I want to see how the four parts of human-centered design — saying, thinking, doing, feeling — actually show up in this feedback loop. Right now the AI is only picking up what people say and think, because that's what shows up in text. It's missing doing and feeling, which people rarely write down but which matter just as much.
