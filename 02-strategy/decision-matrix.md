@@ -1,23 +1,17 @@
 # AI Solution Decision Matrix · Juno
 
-> Module 2 · Strategy. The build / buy / fine-tune / partner call, made with the **M2 · AI Solution Decision Matrix**. Paste the tool's markdown over this file.
-
 ## The decision
 
-_What are you deciding, and why now?_
-
-_____
+Use multimodal to incorporate an API that is fine-tune to the needs, avoid building in house to reduce time commitment from engineering. Not a critical task as need to create a moat is unnecessary
 
 ## Options scored
 
 | Option | Cost | Speed | Control | Moat | Risk | Score |
 |---|---|---|---|---|---|---|
-| _Build_ | _…_ | _…_ | _…_ | _…_ | _…_ | _…_ |
-| _Buy / API_ | _…_ | _…_ | _…_ | _…_ | _…_ | _…_ |
-| _Fine-tune_ | _…_ | _…_ | _…_ | _…_ | _…_ | _…_ |
+| Build | 2 | 3 | 4 | 5 | 2 | 3.2 |
+| Buy / API | 5 | 5 | 1 | 1 | 3 | 3.0 |
+| Fine-tune | 5 | 3 | 4 | 3 | 5 | 4.0 |
 
 ## Recommendation
 
-_The chosen option and the business reason._
-
-_____
+Fine-tune a model that exists and make this a fast approach to drive user engagement in product roadmapping
