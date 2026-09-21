@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-rocketship-pm-hub
+[rocketship-pm-hub](https://rocketship-pm-hub.lovable.app)
 
 _____
 
